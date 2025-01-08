@@ -1,0 +1,7 @@
+numpy
+encodec
+funcy
+scipy
+torch
+tqdm
+transformers
